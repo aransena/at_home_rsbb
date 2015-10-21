@@ -64,7 +64,7 @@
   timeout: 120.000
   total_timeout: 600.000
 - name: RoCKIn@Home Functionality Benchmark 2
-  desc: Navigation Benchmark
+  desc: Navigation Functionality
   code: HOMF
   timeout: 600.000
 - name: RoCKIn@Home Functionality Benchmark 3
